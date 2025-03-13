@@ -1,7 +1,7 @@
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&center=true&width=870&height=200&lines=Eranga+Hansaja+Perera+%F0%9F%91%8B" alt="Typing SVG" /></a>
    
-   <p>👥 Visitor Count: [![Visit Count](https://count.getloli.com/get/@ErangaHansaja?theme=rule34)](#)</p>
+   👥 Visitor Count: ![Visit Count](https://count.getloli.com/get/@ErangaHansaja?theme=rule34)
 </h1>
 
 Hello, I'm **Eranga Hansaja Perera**, a student pursuing an **HND in Software Engineering** at **NIBM Kandy, Sri Lanka**. I’m currently working as an intern software engineer at **N-meg Technologies**. I joined GitHub in **2020**.
