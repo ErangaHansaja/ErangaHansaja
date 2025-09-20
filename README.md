@@ -1,8 +1,6 @@
-# Eranga Hansaja Perera 👋
+# WELCOME
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&center=true&width=870&height=200&lines=Hi,+I’m+Eranga+Hansaja+Perera+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&center=true&width=870&height=200&lines=Eranga+Hansaja+Perera+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 ---
 
@@ -50,11 +48,9 @@ I’m **Eranga Hansaja Perera**, a dedicated student pursuing an **HND in Softwa
 - Complete the Manhwa Reading Site MVP (home grid, search, reader view).
 - Develop an **online real-time air monitoring and prediction system** using Python and machine learning.
 
-## 📊 Stats
-<div align="center">
-  <h2>Visitor Count</h2>
-</div>
-![Visit Count](https://count.getloli.com/get/@ErangaHansaja?theme=rule34)
+# 📊 Stats
+## Visitor count
+................................................................................................................................................................................![Visit Count](https://count.getloli.com/get/@ErangaHansaja?theme=rule34)................................................................................................................................................................................
 <div align="center">
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErangaHansaja&theme=dracula" alt="GitHub Streak" />
