@@ -20,8 +20,7 @@
   ],
   "current_role": "Software Engineering Intern @ N-meg Technologies",
   "base": "Sri Lanka",
-  "passion": "Engineering robust backend logic, building system-level automations, and 
-    optimizing efficient workflows.",
+  "passion": "Engineering robust backend logic, building system-level automations, and optimizing efficient workflows.",
   "hobbies": [
     "Embedded Systems & IoT Development",
     "Custom OS Engineering & Deployment",
