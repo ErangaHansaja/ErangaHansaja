@@ -1,80 +1,114 @@
-# WELCOME
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:00ff99&height=220&section=header&text=Eranga%20Hansaja%20Perera&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Capsule" width="100%"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=750&lines=Software+Engineering+Undergraduate+%26+Intern;Full-Stack+Web+%26+Mobile+Dev+(Django+%E2%80%A2+Angular+%E2%80%A2+React+Native);Linux+User+%E2%80%A2+Hardware+%26+Custom+OS+Tinkerer" alt="Typing SVG" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&center=true&width=870&height=200&lines=Eranga+Hansaja+Perera;Software+Engineering+Undergraduate;Backend+Developer)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <a href="mailto:erangahansaja222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/eranga-perera-31455736b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://x.com/Eranga_Hansaja"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+</p>
 
 ---
 
-## 👤 Whoami
+## 🧑‍💻 About Me (`whoami`)
 
-```json
+I'm a **final-year Software Engineering undergraduate** and **Full-Stack Intern** who learns best by taking things apart and building them from scratch. Right now, I'm gaining hands-on industry experience building web and mobile features at **N-meg Technologies** while working on my degree.
+
+<div align="center">
+  <kbd>💻 Full-Stack Web (Django & Angular)</kbd>
+  <kbd>📱 Mobile Dev (React Native & Expo)</kbd>
+  <kbd>🐧 Linux & Bash Scripting</kbd>
+  <kbd>🔧 Hardware & Custom OS Modding</kbd>
+</div>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Quick Info</h3>
+      <ul>
+        <li>💼 <b>Role:</b> Software Engineering Intern @ <b>N-meg Technologies</b></li>
+        <li>🎓 <b>Studying:</b> BSc (Hons) CS & Software Engineering</li>
+        <li>📜 <b>Completed:</b> HND in Software Engineering</li>
+        <li>📍 <b>Location:</b> Sri Lanka 🇱🇰</li>
+        <li>🛠️ <b>Interests:</b> Laptop/phone modding, triple-booting OS setups, embedded electronics, anime, manhwa & gaming</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💻 <code>whoami.json</code></h3>
+      <pre lang="json">
 {
   "name": "Eranga Hansaja Perera",
-  "title": "Software Engineering Undergrad & Intern",
-  "education": [
-    "HND in Software Engineering (Completed)",
-    "BSc (Hons) Computer Science & Software Engineering (Currently Following)"
+  "level": "Undergrad & Intern",
+  "working_with": [
+    "Django & REST APIs",
+    "Angular & TypeScript",
+    "React Native & Expo"
   ],
-  "current_role": "Software Engineering Intern @ N-meg Technologies",
-  "base": "Sri Lanka",
-  "passion": "Engineering robust backend logic, building system-level automations, and optimizing efficient workflows.",
-  "hobbies": [
-    "Embedded Systems & IoT Development",
-    "Custom OS Engineering & Deployment",
-    "Hardware Modding",
-    "Anime & Manhwa",
-    "Gaming"
-  ]
-}
+  "shell": "/bin/bash",
+  "hobbies": ["Hardware Modding", "Gaming", "Anime"]
+}</pre>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Daily Tools
+
+<div align="center">
+
+#### 💻 Languages, Frameworks & Bash
+[![Core Stack](https://skillicons.dev/icons?i=py,ts,js,java,bash,django,angular,react,nodejs)](https://skillicons.dev)
+
+#### 🗄️ Databases & Dev Environment
+[![Databases & Tools](https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,linux,git,postman)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 GitHub Telemetry
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ErangaHansaja&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErangaHansaja&theme=tokyonight" alt="Profile Summary" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErangaHansaja&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErangaHansaja&theme=tokyonight" alt="Commits and Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErangaHansaja&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</div>
+
+---
+
+## 📟 Live Feed
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2200&pause=1000&color=00FF99&background=0D1117&center=true&vCenter=true&multiline=true&width=780&height=130&lines=%24+fastfetch+--user+eranga;%5BOS%5D+Triple-Boot+(Linux+%2F+macOS+%2F+Windows)+%E2%80%A2+Shell%3A+bash+%26+Termux;%5BWORK%5D+Full-Stack+Web+%26+Mobile+(Django+%E2%80%A2+Angular+%E2%80%A2+React+Native);%5BAFTER+HOURS%5D+Hardware+tinkering%2C+pushing+ranks+%26+reading+manhwa" alt="Terminal Feed" />
+</div>
+
+<br/>
+
+```text
+┌──(eranga㉿workstation)-[~/workbench]
+└─$ cat current_focus.txt
+  ├── 🚀 Building full-stack web & mobile features during my internship
+  ├── 🎓 Developing my final-year Software Engineering research project
+  ├── 🔧 Writing Bash/Python automation scripts & modding hardware/OS setups
+  └── 🎮 Grinding mobile games & catching up on anime/manhwa between commits
 ```
 
----
-
-## 💻 Tech Stack
-
 <div align="center">
-
-[![Tech Stack](https://skillicons.dev/icons?i=angular,bash,bootstrap,c,css,django,docker,figma,firebase,git,html,java,js,linux,mysql,postgres,postman,py,react,sass,ts&perline=10)](https://skillicons.dev)
-
-</div>
-
----
-
-## 🚀 Current Executions (Projects)
-- **Academic System Module**: Collaborated with a development team on a comprehensive university project, specifically architecting and managing the administrator control and routing module.
-- **Retro Termux Banner**: A pure Bash command-line utility featuring a modular architecture that dynamically generates an animated, interactive startup screen. 
-- **Manhwa Reading Site**: A responsive Angular frontend and Django backend web application.
-
-## 📝 The Backlog (To-Do List)
-- [ ] **ESP32 Hologram Engine**: Engineering an interactive 3D hologram display driven by a microcontroller for real-time visual rendering.
-- [ ] **Automated Media Tracker**: Build a headless Python script to scrape and push OS-level notifications for new anime/manhwa drops.
-- [ ] **The Media Harvester**: Develop a command-line Bash wrapper utilizing `yt-dlp` and `ffmpeg` for instant, high-quality terminal media downloads.
-- [ ] **ML Air Monitoring**: Develop an online real-time air monitoring and prediction system using Python and Machine Learning.
-
----
-
-## 📊 Telemetry (Stats)
-
-<div align="center">
+  <br/><br/>
   <img src="https://count.getloli.com/get/@ErangaHansaja?theme=rule34" alt="Visit Count" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErangaHansaja&theme=github_dark" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErangaHansaja&theme=github_dark" alt="Profile Summary" /> 
-  <br/><br/>   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErangaHansaja&theme=github_dark" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErangaHansaja&theme=github_dark" alt="Commits and Stats" />
 </div>
 
----
-
-## 📬 Ping Me
-- **Email**: [erangahansaja222@gmail.com](mailto:erangahansaja222@gmail.com)
-- **LinkedIn**: [linkedin.com/in/eranga-perera-31455736b](https://www.linkedin.com/in/eranga-perera-31455736b/)
-- **Twitter (X)**: [@Eranga_Hansaja](https://x.com/Eranga_Hansaja)
-
-## 🤝 Contributing
-Feel free to fork this repo, create a feature branch, and submit a pull request. Let’s build something amazing together!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:00ff99&height=120&section=footer" alt="Footer Capsule" width="100%"/>
+</p>
